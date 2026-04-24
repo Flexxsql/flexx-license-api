@@ -108,10 +108,14 @@
         "disabledAt": null
     }
     [
-  {
-    "key": "FLEXX-527L-DG8K",
-    "hwid": null,
-    "status": "active"
-  }
-]
+   {
+        "key": "FLEXX-527L-DG8K",
+        "status": "active",
+        "hwid": null,
+        "createdAt": "2026-04-24T20:53:10.528Z",
+        "activatedAt": null,
+        "lastCheckedAt": null,
+        "disabledAt": null
+    }
+    [
 ]
